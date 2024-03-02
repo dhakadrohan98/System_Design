@@ -1,4 +1,4 @@
-package org.solid;
+package org.single.responsibility;
 
 public class Invoice {
 	private Marker marker;
