@@ -2,6 +2,8 @@ package org.dependency.principle;
 
 public class Macbook {
 	
+	//Dependency inversion principle is implemented here.
+	
 	private Keyboard keyboard;
 	private Mouse mouse;
 	
